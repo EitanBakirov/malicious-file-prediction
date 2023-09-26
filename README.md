@@ -53,7 +53,7 @@ It is recommended to use NumPy version 1.23.5 in order to be able to import:
 import statsmodels.api as sm
 from statsmodels.stats.outliers_influence import variance_inflation_factor 
 ```
-<br>
+
 Thus, before running the project, please use the following command in your terminal or command prompt:
 
 ```python
