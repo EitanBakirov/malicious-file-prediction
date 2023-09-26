@@ -55,7 +55,7 @@ from statsmodels.stats.outliers_influence import variance_inflation_factor
 ```
 <br>
 Before running the project, please use the following command in your terminal or command prompt:
-```
+```python
 pip install numpy==1.23.5
 ```
 
