@@ -8,13 +8,16 @@ For a more in depth explanation of all our proccess of work you can access "repo
 
 ## Table of Contents
 
-- [Project Description](#project-description)
-- [Data](#data)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Usage](#usage)
-- [Authors](#authors)
-- [Contact](#contact)
+- [Data Science – Final Project](#data-science--final-project)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [Project Description](#project-description)
+  - [Data](#data)
+  - [Methodology](#methodology)
+  - [Results](#results)
+  - [Usage](#usage)
+  - [Authors](#authors)
+  - [Contact](#contact)
 
 ## Project Description
 
@@ -42,6 +45,19 @@ The Random Forest model was selected as the best-performing model with a high AU
 ## Usage
 
 To reproduce the project's results or use the models just clone the repository and run "notebook.ipynb"
+
+<span style="color:red;"><b>Note:</b></span><br>
+It is recommended to use NumPy version 1.23.5 in order to be able to import:
+
+```python
+import statsmodels.api as sm
+from statsmodels.stats.outliers_influence import variance_inflation_factor 
+```
+<br>
+Before running the project, please use the following command to install NumPy version 1.23.5:
+Thus, before running the project please use:<br>
+pip install numpy==1.23.5
+Make sure to run this command in your Python environment to ensure that you have the required NumPy version installed.
 
 ## Authors
 
