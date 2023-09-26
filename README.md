@@ -54,10 +54,10 @@ import statsmodels.api as sm
 from statsmodels.stats.outliers_influence import variance_inflation_factor 
 ```
 <br>
-Before running the project, please use the following command to install NumPy version 1.23.5:
-Thus, before running the project please use:<br>
+Before running the project, please use the following command in your terminal or command prompt:
+```
 pip install numpy==1.23.5
-Make sure to run this command in your Python environment to ensure that you have the required NumPy version installed.
+```
 
 ## Authors
 
