@@ -67,4 +67,4 @@ pip install numpy==1.23.5
 
 ## Contact
 
-For questions or feedback related to the project, please contact Eitan Bakirov at EitanBakirov@gmail.com.
+For questions or feedback related to the project, please contact Eitan Bakirov at EitanBakirov@gmail.com or Yuval Bakirov at yuvalbakirov@gmail.com.
