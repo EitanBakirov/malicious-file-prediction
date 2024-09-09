@@ -1,8 +1,8 @@
-# Data Science – Final Project
+# Machine Learning – Final Project
 
 ## Overview
 
-This data science project aims to solve a binary classification problem using static file analysis. The goal is to classify files as either malicious or non-malicious based on a set of features, some of which are known and others are anonymous. The project involves exploratory data analysis, data preprocessing, machine learning model building, and evaluation.
+This project aims to solve a binary classification problem using static file analysis. The goal is to classify files as either malicious or non-malicious based on a set of features, some of which are known and others are anonymous. The project involves exploratory data analysis, data preprocessing, machine learning model building, and evaluation.
 
 For a more in depth explanation of all our proccess of work you can access "report_english.pdf"/ "report_hebrew.pdf" or the notebook itself "notebook.ipynb".
 
@@ -21,7 +21,7 @@ For a more in depth explanation of all our proccess of work you can access "repo
 
 ## Project Description
 
-In this data science project, we were tasked with classifying files as malicious (1) or non-malicious (0) based on various features in the dataset. The project involved:
+In this project, we were tasked with classifying files as malicious (1) or non-malicious (0) based on various features in the dataset. The project involved:
 
 - Exploratory Data Analysis to understand the data's distribution and correlations.
 - Data preprocessing, including handling missing values, dealing with categorical features, and feature engineering.
